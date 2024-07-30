@@ -1,6 +1,6 @@
 #支持私库
 
-langgenius/dify-web:0.6.12-fix1
+#langgenius/dify-web:0.6.12-fix1
 
 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -28,7 +28,8 @@ langgenius/dify-web:0.6.12-fix1
 #opensearchproject/opensearch:latest
 #opensearchproject/opensearch-dashboards:latest
 
-
+mysql/mysql-server:latest
+eosphorosai/dbgpt:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
