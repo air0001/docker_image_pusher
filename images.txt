@@ -2,7 +2,7 @@
 
 #langgenius/dify-web:0.6.12-fix1
 
-lmsysorg/sglang:latest
+#lmsysorg/sglang:latest
 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #openspg/openspg-server:latest
@@ -30,7 +30,7 @@ lmsysorg/sglang:latest
 #opensearchproject/opensearch-dashboards:latest
 
 #mysql/mysql-server:latest
-#eosphorosai/dbgpt:latest
+eosphorosai/dbgpt:latest
 vllm/vllm-openai:latest
 
 
