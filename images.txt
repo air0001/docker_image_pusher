@@ -31,7 +31,7 @@
 
 #mysql/mysql-server:latest
 eosphorosai/dbgpt:latest
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
 
 
 #支持指定架构
