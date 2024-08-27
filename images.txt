@@ -2,12 +2,12 @@
 
 #langgenius/dify-web:0.6.12-fix1
 
-#lmsysorg/sglang:latest
+lmsysorg/sglang:latest
 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #openspg/openspg-server:latest
 #openspg/openspg-mysql:latest
-tugraph/tugraph-runtime-centos7:latest
+#tugraph/tugraph-runtime-centos7:latest
 #elasticsearch:8.5.3
 #openspg/openspg-python:latest
 #vllm/vllm-openai:v0.3.0
