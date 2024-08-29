@@ -3,7 +3,8 @@
 #langgenius/dify-web:0.6.12-fix1
 
 #lmsysorg/sglang:latest
-neo4j:latest
+#neo4j:latest
+xprobe/xinference:latest
 
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #openspg/openspg-server:latest
