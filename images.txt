@@ -43,3 +43,4 @@ calciumion/new-api:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine/jmeter:5
 #jupyter/datascience-notebook:latest
+calciumion/new-api:latest
