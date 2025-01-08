@@ -14,7 +14,7 @@
 #tugraph/tugraph-runtime-centos7:latest
 #elasticsearch:8.5.3
 #openspg/openspg-python:latest
-#vllm/vllm-openai:v0.3.0
+vllm/vllm-openai:v0.6.6.post1
 #langgenius/dify-api:0.6.12-fix1
 #postgres:15-alpine
 #redis:6-alpine
@@ -43,4 +43,4 @@ calciumion/new-api:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 alpine/jmeter:5
 #jupyter/datascience-notebook:latest
-calciumion/new-api:latest
+#calciumion/new-api:latest
